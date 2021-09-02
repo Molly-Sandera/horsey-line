@@ -1,0 +1,43 @@
+header .bar {
+  background-color: bisque;
+  border-radius: 100px;
+  padding: 20px;
+  margin-top: 40px;
+  margin-left: 15px;
+  margin-right: 15px;
+}
+
+header .bar .list ul {
+  text-transform: uppercase;
+}
+
+header .bar .list ul li {
+  margin-right: 20px;
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+header .bar .list ul li i {
+  margin-left: 5px;
+}
+
+header .bar .contact {
+  white-space: nowrap;
+}
+
+header .bar .contact i {
+  color: #acd25f;
+}
+
+.landing {
+  width: 100%;
+  height: 100vh;
+  background-image: url("img/swiper-slide-1.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+}
+/*# sourceMappingURL=style.css.map */
